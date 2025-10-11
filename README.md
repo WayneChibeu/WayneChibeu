@@ -25,6 +25,8 @@ I'm an aspiring IT professional with a passion for technology, problem-solving, 
 
 ## ⚡ Fun Fact  
 I enjoy discovering hidden features in software and troubleshooting tech issues just for fun! 😃  
+
+## 
 ![Wayne's GitHub stats](https://github-readme-stats.vercel.app/api?username=WayneChibeu&hide=contribs,prs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WayneChibeu&layout=compact)
 <!---
