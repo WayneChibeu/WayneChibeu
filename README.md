@@ -37,17 +37,7 @@ A Python automation system demonstrating:
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WayneChibeu&show_icons=true&theme=tokyonight" alt="Wayne's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WayneChibeu&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-## 📫 Let's Connect
+##  Let's Connect
 
 <p align="center">
   <a href="https://waynes-portfolio.vercel.app">
