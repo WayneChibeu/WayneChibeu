@@ -1,51 +1,81 @@
 # Hi, I'm Wayne Chibeu 👋
 
+<div align="center">
+  
+  <!-- Animated Typing Effect -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Building+SaaS+Products;From+Kenya+%F0%9F%87%B0%F0%9F%87%AA;Always+Learning+%E2%9A%A1" alt="Typing SVG" />
+  </a>
+  
+  <!-- Profile Views Counter -->
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=WayneChibeu&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  
+</div>
+
+---
+
 **Full Stack Developer** from Kenya 🇰🇪 building production software with **Next.js**, **TypeScript**, and **Supabase**.
 
 ## 🚀 What I Build
 
-### [InvoiceDeck](https://invoicedeck.app) — Production SaaS
-A complete invoicing platform for freelancers and small businesses:
-- 📄 PDF invoice generation & management
-- 💳 Paystack payment integration
-- 📊 Client & invoice tracking dashboard
-- 🔐 Secure authentication with Supabase
+<table>
+<tr>
+<td width="50%">
 
-**Stack:** Next.js 15 • TypeScript • Supabase • Paystack • TailwindCSS
+### [InvoiceDeck](https://invoicedeck.app) 💼
+A complete invoicing platform for freelancers:
+- 📄 PDF invoice generation
+- 💳 Paystack payments
+- 📊 Client tracking dashboard
+- 🔐 Supabase auth
 
----
+**`Next.js`** **`TypeScript`** **`Supabase`** **`Paystack`**
 
-### [DocuChat AI](https://docuchat-ultra.vercel.app) — AI Document Assistant
-A RAG-based document assistant for chatting with your PDFs:
-- 📄 Upload PDFs and ask questions
-- 🔍 Semantic search with vector embeddings
-- 🤖 AI-powered summarization & answers
+</td>
+<td width="50%">
 
-**Stack:** Next.js • OpenAI • Pinecone • LangChain
+### [DocuChat AI](https://docuchat-ultra.vercel.app) 🤖
+RAG-based document assistant:
+- 📄 Upload & chat with PDFs
+- 🔍 Semantic vector search
+- 🤖 AI summarization
 
----
+**`Next.js`** **`OpenAI`** **`Pinecone`** **`LangChain`**
 
-### [MusicDeck](https://github.com/WayneChibeu/MusicDeck) — Android App
-A clean, ad-free music player for Android:
-- 🎵 Background playback with Media3
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### [MusicDeck](https://github.com/WayneChibeu/MusicDeck) 🎵
+Clean, ad-free Android music player:
+- 🎵 Background playback
 - 🎨 Material 3 design
 - 🖼️ Album art display
 
-**Stack:** Kotlin • Jetpack Media3 • Material 3
+**`Kotlin`** **`Jetpack Media3`** **`Material 3`**
 
----
+</td>
+<td width="50%">
 
-### Algorithmic Trading System — Private Project
-A Python automation system demonstrating:
-- 📈 Real-time data processing & API integrations
-- 🧮 Technical analysis algorithms (RSI, MACD, EMA, ATR)
-- 📲 Telegram bot integration for remote monitoring
+### Trading Bot 📈
+*Private Project*
+- 📈 Real-time data processing
+- 🧮 Technical analysis (RSI, MACD, ATR)
+- 📲 Telegram monitoring
 
-**Stack:** Python • REST APIs • Telegram Bot API
+**`Python`** **`REST APIs`** **`Telegram Bot`**
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
+
+<div align="center">
 
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -56,6 +86,19 @@ A Python automation system demonstrating:
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=WayneChibeu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=WayneChibeu&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" height="165" />
+</div>
+
+---
 
 ## 🔗 Let's Connect
 
