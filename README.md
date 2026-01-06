@@ -23,23 +23,23 @@
 <tr>
 <td width="50%">
 
-### [InvoiceDeck](https://invoicedeck.app) 💼
+### [InvoiceDeck](https://invoicedeck.app)
 A complete invoicing platform for freelancers:
-- 📄 PDF invoice generation
-- 💳 Paystack payments
-- 📊 Client tracking dashboard
-- 🔐 Supabase auth
+- PDF invoice generation
+- Paystack payments
+- Client tracking dashboard
+- Secure auth with Supabase
 
 **`Next.js`** **`TypeScript`** **`Supabase`** **`Paystack`**
 
 </td>
 <td width="50%">
 
-### [DocuChat AI](https://docuchat-ultra.vercel.app) 🤖
+### [DocuChat AI](https://docuchat-ultra.vercel.app)
 RAG-based document assistant:
-- 📄 Upload & chat with PDFs
-- 🔍 Semantic vector search
-- 🤖 AI summarization
+- Upload & chat with PDFs
+- Semantic vector search
+- AI-powered summarization
 
 **`Next.js`** **`OpenAI`** **`Pinecone`** **`LangChain`**
 
@@ -48,22 +48,22 @@ RAG-based document assistant:
 <tr>
 <td width="50%">
 
-### [MusicDeck](https://github.com/WayneChibeu/MusicDeck) 🎵
+### [MusicDeck](https://github.com/WayneChibeu/MusicDeck)
 Clean, ad-free Android music player:
-- 🎵 Background playback
-- 🎨 Material 3 design
-- 🖼️ Album art display
+- Background playback with Media3
+- Material 3 design
+- Album art display
 
 **`Kotlin`** **`Jetpack Media3`** **`Material 3`**
 
 </td>
 <td width="50%">
 
-### Trading Bot 📈
+### Trading Bot
 *Private Project*
-- 📈 Real-time data processing
-- 🧮 Technical analysis (RSI, MACD, ATR)
-- 📲 Telegram monitoring
+- Real-time data processing
+- Technical analysis (RSI, MACD, ATR)
+- Telegram bot monitoring
 
 **`Python`** **`REST APIs`** **`Telegram Bot`**
 
