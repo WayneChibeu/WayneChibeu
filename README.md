@@ -4,14 +4,34 @@
 
 ## 🚀 What I Build
 
-### [InvoiceDeck](https://invoicedeck.vercel.app) — Production SaaS
+### [InvoiceDeck](https://invoicedeck.app) — Production SaaS
 A complete invoicing platform for freelancers and small businesses:
 - 📄 PDF invoice generation & management
-- 💳 Stripe payment integration
+- 💳 Paystack payment integration
 - 📊 Client & invoice tracking dashboard
 - 🔐 Secure authentication with Supabase
 
-**Stack:** Next.js 15 • TypeScript • Supabase • Stripe • TailwindCSS
+**Stack:** Next.js 15 • TypeScript • Supabase • Paystack • TailwindCSS
+
+---
+
+### [DocuChat AI](https://docuchat-ultra.vercel.app) — AI Document Assistant
+A RAG-based document assistant for chatting with your PDFs:
+- 📄 Upload PDFs and ask questions
+- 🔍 Semantic search with vector embeddings
+- 🤖 AI-powered summarization & answers
+
+**Stack:** Next.js • OpenAI • Pinecone • LangChain
+
+---
+
+### [MusicDeck](https://github.com/WayneChibeu/MusicDeck) — Android App
+A clean, ad-free music player for Android:
+- 🎵 Background playback with Media3
+- 🎨 Material 3 design
+- 🖼️ Album art display
+
+**Stack:** Kotlin • Jetpack Media3 • Material 3
 
 ---
 
@@ -20,7 +40,6 @@ A Python automation system demonstrating:
 - 📈 Real-time data processing & API integrations
 - 🧮 Technical analysis algorithms (RSI, MACD, EMA, ATR)
 - 📲 Telegram bot integration for remote monitoring
-- 📊 Automated logging & data collection for analysis
 
 **Stack:** Python • REST APIs • Telegram Bot API
 
@@ -31,13 +50,14 @@ A Python automation system demonstrating:
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-##  Let's Connect
+## 🔗 Let's Connect
 
 <p align="center">
   <a href="https://waynes-portfolio.vercel.app">
