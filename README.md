@@ -74,5 +74,9 @@ A Python automation system demonstrating:
 ---
 
 <p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20time%20to%20plant%20a%20tree%20was%2020%20years%20ago.%20The%20second%20best%20time%20is%20now.&author=Chinese%20Proverb" alt="Quote" />
+</p>
+
+<p align="center">
   <i>Currently building, always learning.</i> ⚡
 </p>
