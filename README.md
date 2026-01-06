@@ -91,15 +91,6 @@ Clean, ad-free Android music player:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WayneChibeu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=WayneChibeu&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" height="165" />
-</div>
-
----
-
 ## 🔗 Let's Connect
 
 <p align="center">
@@ -116,10 +107,14 @@ Clean, ad-free Android music player:
 
 ---
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20time%20to%20plant%20a%20tree%20was%2020%20years%20ago.%20The%20second%20best%20time%20is%20now.&author=Chinese%20Proverb" alt="Quote" />
-</p>
-
-<p align="center">
-  <i>Currently building, always learning.</i> ⚡
-</p>
+<div align="center">
+  
+  ### 💭 *"The best time to plant a tree was 20 years ago. The second best time is now."*
+  
+  <sub>— Chinese Proverb</sub>
+  
+  <br/><br/>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%" />
+  
+</div>
