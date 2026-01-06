@@ -94,6 +94,7 @@ Clean, ad-free Android music player:
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel)](https://waynes-portfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wayne-chibeu-482451278)
 [![X](https://img.shields.io/badge/X-000?style=flat-square&logo=x&logoColor=white)](https://x.com/theamateur_tax)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/_bywayne)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:wchibeu4@gmail.com)
 
 ---
