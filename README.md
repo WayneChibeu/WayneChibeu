@@ -54,7 +54,7 @@ Clean, ad-free Android music player:
 - Material 3 design
 - Album art display
 
-**`Kotlin`** **`Jetpack Media3`** **`Material 3`**
+**`Kotlin`** **`Media3`** **`Material 3`**
 
 </td>
 <td width="50%">
