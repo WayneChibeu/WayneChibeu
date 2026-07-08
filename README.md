@@ -15,7 +15,7 @@
 
 ---
 
-**Full Stack Developer** from Kenya 🇰🇪 building production software with **Next.js**, **TypeScript**, and **Supabase**.
+**Full Stack Developer** from Kenya 🇰🇪 building production software with **Next.js**, **TypeScript**, **Kotlin**, and **Supabase**.
 
 ## 🚀 What I Build
 
@@ -25,10 +25,9 @@
 
 ### [InvoiceDeck](https://invoicedeck.app)
 A complete invoicing platform for freelancers:
-- PDF invoice generation
-- Paystack payments
-- Client tracking dashboard
-- Secure auth with Supabase
+- PDF invoice generation & Paystack payments
+- Real-time client & cashflow tracking dashboard
+- Secure auth & row-level security with Supabase
 
 **`Next.js`** **`TypeScript`** **`Supabase`** **`Paystack`**
 
@@ -36,10 +35,10 @@ A complete invoicing platform for freelancers:
 <td width="50%">
 
 ### [DocuChat AI](https://docuchat-ultra.vercel.app)
-RAG-based document assistant:
-- Upload & chat with PDFs
-- Semantic vector search
-- AI-powered summarization
+RAG-based AI document assistant:
+- Upload & interactively chat with complex PDFs
+- High-precision semantic vector search
+- Context-aware document summarization
 
 **`Next.js`** **`OpenAI`** **`Pinecone`** **`LangChain`**
 
@@ -49,23 +48,23 @@ RAG-based document assistant:
 <td width="50%">
 
 ### [MusicDeck](https://github.com/WayneChibeu/MusicDeck)
-Clean, ad-free Android music player:
-- Background playback with Media3
-- Material 3 design
-- Album art display
+Flagship, ad-free Android music player:
+- **Intelligent Lyrics Engine** with anti-hallucination verification
+- Jetpack Media3 background playback & instant audio resume
+- Studio-grade high-contrast Material 3 UI
 
-**`Kotlin`** **`Media3`** **`Material 3`**
+**`Kotlin`** **`Jetpack Media3`** **`Material 3`** **`MVVM`**
 
 </td>
 <td width="50%">
 
-### Trading Bot
-*Private Project*
-- Real-time data processing
-- Technical analysis (RSI, MACD, ATR)
-- Telegram bot monitoring
+### Quantitative ML Framework
+*Private Research & Backend Engine*
+- Automated market regime classification & pattern analysis
+- Algorithmic backtesting engine with risk management
+- Real-time telemetry & execution alerts via Telegram
 
-**`Python`** **`REST APIs`** **`Telegram Bot`**
+**`Python`** **`Machine Learning`** **`REST APIs`**
 
 </td>
 </tr>
