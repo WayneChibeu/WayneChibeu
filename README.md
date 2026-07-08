@@ -29,7 +29,7 @@ A complete invoicing platform for freelancers:
 - Real-time client & cashflow tracking dashboard
 - Secure auth & row-level security with Supabase
 
-**`Next.js`** **`TypeScript`** **`Supabase`** **`Paystack`**
+**`Next.js`** **`TypeScript`** **`Supabase`** **`Lemon Squeezy`**
 
 </td>
 <td width="50%">
