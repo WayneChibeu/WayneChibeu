@@ -59,7 +59,7 @@ Flagship, ad-free Android music player:
 <td width="50%">
 
 ### Quantitative ML Framework
-*Private Research & Backend Engine*
+Private Research & Backend Engine:
 - Automated market regime classification & pattern analysis
 - Algorithmic backtesting engine with risk management
 - Real-time telemetry & execution alerts via Telegram
