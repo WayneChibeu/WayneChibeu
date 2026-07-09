@@ -15,7 +15,7 @@
 
 ---
 
-**Full Stack Developer** from Kenya 🇰🇪 building production software with **Next.js**, **TypeScript**, **Kotlin**, and **Supabase**.
+**Full Stack Developer** from Kenya building production software with **Next.js**, **TypeScript**, **Kotlin**, and **Supabase**.
 
 ## 🚀 What I Build
 
